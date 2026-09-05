@@ -85,11 +85,12 @@ Customer churn is a major challenge for telecom companies because losing existin
 
 ## 💡 Business Recommendations
 
-- Encourage Month-to-Month customers to switch to long-term contracts through loyalty offers.
-- Improve onboarding and engagement for customers with low tenure.
-- Review pricing and service quality for Fiber Optic customers.
-- Promote automatic payment methods instead of Electronic Check.
-- Prioritize retention campaigns for high-risk customer segments such as Fiber Optic and Senior Citizens.
+- **Promote long-term contracts** by offering discounts or bundled plans to Month-to-Month customers, as this segment has the highest churn rate.
+- **Improve onboarding and early engagement** for customers with low tenure through welcome offers, proactive support, and personalized communication.
+- **Enhance the Fiber Optic customer experience** by reviewing pricing, service quality, and network performance, since Fiber Optic customers show the highest churn risk.
+- **Encourage automatic payment methods** by incentivizing customers to switch from Electronic Check to bank transfer or credit card auto-pay.
+- **Launch targeted retention campaigns** for high-risk segments, especially **Month-to-Month + Fiber Optic** customers and **Senior Citizens**.
+- **Prioritize high-value customer retention** by identifying customers with higher Monthly Charges and Total Charges, as losing them results in greater recurring and lifetime revenue loss.
 
 ---
 
